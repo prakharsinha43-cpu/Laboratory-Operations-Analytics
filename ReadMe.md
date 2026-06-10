@@ -201,13 +201,13 @@ Laboratory-Operations-Analytics/
 * ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/Executive_Overview.png)
 
 ### Technician Analytics
-![Technician Analytics](screenshots/technician_analytics.png)
+![Technician Analytics](screenshots/Technician_Analytics.png)
 
 ### Operational Efficiency
-![Operational Efficiency](screenshots/operational_efficiency.png)
+![Operational Efficiency](screenshots/Operational_Efficiency.png)
 
 ---
 
