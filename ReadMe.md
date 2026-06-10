@@ -198,6 +198,17 @@ Laboratory-Operations-Analytics/
 * Real-time dashboard integration  
 * Machine learning models for delay prediction
 
+* ## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Technician Analytics
+![Technician Analytics](screenshots/technician_analytics.png)
+
+### Operational Efficiency
+![Operational Efficiency](screenshots/operational_efficiency.png)
+
 ---
 
 ## **Author**
